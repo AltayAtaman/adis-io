@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/adi_io_logo_light.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Adis.io - Beach Cafe Order Dashboard</title>
+    <script>
+      (function() {
+        const saved = localStorage.getItem('tikir_admin_theme');
+        if (saved === 'dark' || saved === 'light') {
+          document.documentElement.setAttribute('data-theme', saved);
+        } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          document.documentElement.setAttribute('data-theme', 'dark');
+        }
+      })();
+    </script>
+    <!-- Premium Google Fonts & Material Symbols -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <script type="module" crossorigin src="/assets/index-C-oL3Sb7.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-Dl2tZ67G.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
