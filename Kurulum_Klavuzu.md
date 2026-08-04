@@ -1,6 +1,6 @@
-# 🏖️ Tikir.io Kafe Adisyon Sistemi - Kurulum Kılavuzu
+# 🏖️ yiy.io Kafe Adisyon Sistemi - Kurulum Kılavuzu
 
-Tikir.io Cafe Adisyon Sistemi, yerel ağınızda (Wi-Fi) çalışan, garsonların mobil cihazlarından sipariş alıp mutfak/yönetim panelinden takip edebileceğiniz hafif ve güvenilir bir otomasyon sistemidir.
+yiy.io Cafe Adisyon Sistemi, yerel ağınızda (Wi-Fi) çalışan, garsonların mobil cihazlarından sipariş alıp mutfak/yönetim panelinden takip edebileceğiniz hafif ve güvenilir bir otomasyon sistemidir.
 
 Sistemi bilgisayarınıza kurmak ve çalıştırmak için aşağıdaki adımları takip etmeniz yeterlidir.
 

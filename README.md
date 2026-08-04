@@ -1,6 +1,6 @@
-# 🚀 Adis.io — Akıllı Kafe & Plaj Otomasyon Sistemi
+# 🚀 yiy.io — Akıllı Kafe & Plaj Otomasyon Sistemi
 
-**Adis.io**, kafeler, restoranlar ve plaj işletmeleri için geliştirilmiş **çevrimdışı çalışabilen (offline-first)**, hızlı ve kullanımı kolay masa & adisyon otomasyon sistemidir.
+**yiy.io**, kafeler, restoranlar ve plaj işletmeleri için geliştirilmiş **çevrimdışı çalışabilen (offline-first)**, hızlı ve kullanımı kolay masa & adisyon otomasyon sistemidir.
 
 ---
 
@@ -19,6 +19,8 @@
 1. **İndirin**: Sağ üstteki yeşil **`Code`** butonuna tıklayıp **`Download ZIP`** seçeneğini seçin.
 2. **Arşivi Çıkarın**: İndirilen `.zip` dosyasını bilgisayarınızda dilediğiniz bir klasöre çıkarın.
 3. **Çalıştırın**: Klasör içindeki **`tikir-server.exe`** dosyasına çift tıklayarak sistemi başlatın.
+   > 💡 **Windows Güvenlik Uyarısı (SmartScreen)**: 
+   > İlk çalıştırmada Windows Mavi Ekran uyarısı verirse: **"Ek Bilgi"** (More Info) butonına ve ardından **"Yine de Çalıştır"** (Run Anyway) seçeneğine tıklayın.
 4. **Erişim Adresleri**:
    * 🖥️ **Yönetici Paneli**: `http://localhost:3001`
    * 📱 **Garson Arayüzü**: `http://localhost:3001/waiter`
@@ -33,6 +35,9 @@
 
 ---
 
-### 📞 Lisans & Destek
+### 📞 Lisans & İletişim
 
-Detaylı bilgi, ücretsiz deneme lisansı ve teknik destek talepleriniz için temsilciniz ile iletişime geçebilirsiniz.
+Detaylı bilgi, ücretsiz deneme lisansı, özel geliştirme ve teknik destek talepleriniz için **Bionluk** üzerinden doğrudan iletişime geçebilirsiniz:
+
+* 🛍️ **Bionluk İlanı**: [İşletmenize Özel Yönetim Paneli & Otomasyon Geliştirme](https://bionluk.com/i_altay/isletmenize-ozel-yonetim-paneli-gelistiririm-872901)
+* 👤 **Bionluk Profil**: [bionluk.com/i_altay](https://bionluk.com/i_altay)
